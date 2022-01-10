@@ -11,5 +11,4 @@
 /infra export-ignore
 /mkdocs.yml export-ignore
 /phpunit.xml.dist export-ignore
-/samples export-ignore
 /tests export-ignore
